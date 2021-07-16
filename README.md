@@ -49,15 +49,17 @@ My name is Shashwat Tandon. I am a frontend developer living in Delhi, India. �
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=02569B" alt="TypeScript logo" title="TypeScript" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Redwood.js-282C34?logo=redwood.js&logoColor=FFFFFF" alt="Redwood.js logo" title="Redwood.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Redwood.js-282C34?logo=redwoodjs&logoColor=FFFFFF" alt="Redwood.js logo" title="Redwood.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=0077B5" alt="Discord logo" title="Discord" height="25" />](Sassy_Don30#1639)
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=0077B5" alt="Discord logo" title="Discord" height="25" />](https://discord.com/channels/@me)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/shashwat-tandon)
 
