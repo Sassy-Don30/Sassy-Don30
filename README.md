@@ -1,6 +1,6 @@
 # Namaste!
 
-My name is Shashwat Tandon. I am a freelance frontend developer living in Delhi, India. 🥐
+My name is Shashwat Tandon. I am a frontend developer living in Delhi, India. 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
@@ -30,7 +30,7 @@ My name is Shashwat Tandon. I am a freelance frontend developer living in Delhi,
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=007ACC" alt="C++" title="C++" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/c++-282C34?logo=c++&logoColor=007ACC" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -40,11 +40,12 @@ My name is Shashwat Tandon. I am a freelance frontend developer living in Delhi,
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning
 
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React " height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
@@ -53,8 +54,7 @@ My name is Shashwat Tandon. I am a freelance frontend developer living in Delhi,
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
 
@@ -62,10 +62,9 @@ My name is Shashwat Tandon. I am a freelance frontend developer living in Delhi,
 &nbsp;
 
 ## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=0077B5" alt="Discord logo" title="Discord" height="25" />](Sassy_Don30#1639)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/shashwat-tandon)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
