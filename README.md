@@ -1,6 +1,6 @@
 # Namaste!
 
-My name is Shashwat Tandon. I am a frontend developer living in Delhi, India. ü•ê
+My name is Shashwat Tandon. I am a frontend developer living in Delhi, India.
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
@@ -10,7 +10,7 @@ My name is Shashwat Tandon. I am a frontend developer living in Delhi, India. ü
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=4B32C3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7A43B6 " alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
