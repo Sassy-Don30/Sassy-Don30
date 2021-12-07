@@ -55,8 +55,6 @@ My name is Shashwat Tandon. I am a full stack developer living in Delhi, India.
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Redwood.js-282C34?logo=redwoodjs&logoColor=FFFFFF" alt="Redwood.js logo" title="Redwood.js" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 
