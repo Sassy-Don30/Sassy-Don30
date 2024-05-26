@@ -1,6 +1,6 @@
 # Namaste!
 
-My name is Shashwat Tandon. I am a full stack developer living in Delhi, India.
+My name is Shashwat Tandon. I am a full stack developer living in Mumbai, India.
 
 ## 🛠  Technologies and tools
 
